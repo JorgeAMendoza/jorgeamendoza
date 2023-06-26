@@ -18,4 +18,4 @@ Hey 🙋‍♂️, my name is Jorge Mendoza and I am a front end developer who f
 
 - 🔭 I am currently working on a [fullstack web application](https://github.com/JorgeAMendoza/entertainment-web-app)
 - 🌱 I’m currently learning more implementing accessiblity into my applications. 
-- 📩 FI you want to get in contact with me please email me at ***jorgemendozaiidev@gmail.com***
+- 📩 If you want to get in contact with me please email me at ***jorgemendozaiidev@gmail.com***
