@@ -4,10 +4,6 @@
 
 Hey 🙋‍♂️, my name is Jorge Mendoza and I am a front end developer who focuses on tools such as React, TypeScript, and Styled Components. Two years ago in my last of year college I took an introduction to web development course, and since then my passion and enthusiuam for web development has led me to continously grow and learn more about the environment. I am currently looking to take the next step in my web development journey.
 
-[![Top Langs](https://github-readme-stats-one-beryl-32.vercel.app/api/top-langs/?username=jorgeamendoza&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Jorge's GitHub stats](https://github-readme-stats-one-beryl-32.vercel.app/api?username=jorgeamendoza&hide=contribs,prs,&theme=dark)
-
-
 ## Skills & Tech
 - ⚛  React/TypeScript
 - 🎨 CSS/Styled-Components/SCSS
