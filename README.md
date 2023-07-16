@@ -1,14 +1,12 @@
 # Jorge Alberto Mendoza II ⚛🖥🐶
 
-<!-- Banner here -->
-
 Hey 🙋‍♂️, my name is Jorge Mendoza and I am a front end developer who focuses on tools such as React, TypeScript, and Styled Components. Two years ago in my last of year college I took an introduction to web development course, and since then my passion and enthusiuam for web development has led me to continously grow and learn more about the environment. I am currently looking to take the next step in my web development journey.
 
 ## Skills & Tech
-- ⚛  React/TypeScript
+- ⚛  React/TypeScript/Next JS
 - 🎨 CSS/Styled-Components/SCSS
 - 🐳 Docker
-- 🍃 MongoDB/GraphQL
+- 🍃 MongoDB/GraphQL/Express
 
 ## More Infomration
 
